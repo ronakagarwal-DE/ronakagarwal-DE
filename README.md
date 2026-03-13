@@ -1,4 +1,4 @@
-# Hello, I am Ronak 👋
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/82b27a60-5dbf-4ca9-b39f-f600ec197b59" /># Hello, I am Ronak 👋
 
 <p align="center">
   <img src="https://github.com/ronakagarwal-DE/Project20/blob/main/cover%20image.jpg" width="100%" title="Intro Card" alt="Intro Card">
