@@ -8,7 +8,7 @@
 
 
 - 😄 My pronouns are: He/His/Him 
-- 🔭 I’m currently working as a data engineer on <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Microsoft Azure Platform and <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20bricks&logoColor=white"> DataBricks
+- 🔭 I’m currently working as a data engineer on <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Microsoft Azure Platform and <img src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/idOSUN2QlG.svg?c=1bxid64Mup7aczewSAYMX&t=1761284546785"> DataBricks
    - 👯 I'm always open for freelance gigs and contract based opportunitites
    - 💬 I'm looking to collaborate and create some cool content that we can share with the community
    - 🤘 You can find various data engineering projects on my profile
