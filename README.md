@@ -1,7 +1,7 @@
-# Hello, I am Akshay 👋
+# Hello, I am Ronak 👋
 
 <p align="center">
-  <img src="https://github.com/Akshaymuke/Project20/blob/main/cover%20image.jpg" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/ronakagarwal-DE/Project20/blob/main/cover%20image.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 ## Thanks for stopping by. Here's a little bit about myself...
@@ -14,20 +14,12 @@
    - 🤘 You can find various data engineering projects on my profile
 - 🧑🏻‍🏫 I am currently learning
    - Exploring Artificial Intelligence
-   - 
    - How to better architect system 
-- 📫 Here's how you can reach me: [LinkedIn](www.linkedin.com/in/akshaymuke-de/)
-- 🤘 Here are my Open Source contributions so far
-  - [YouTube Analysis End-To-End Data Engineering Project using Python and AWS](https://github.com/akshaymuke/dataengineering)
-- 📝 Here are my most recent blogs:
-   - Medium
-     - [SQL Functions I Use as Data Engineer](https://medium.com/@akshaym/sql-func)
+- 📫 Here's how you can reach me: [LinkedIn](www.linkedin.com/in/ronak-ag)
 - My Certifications and Courses
-  - [Databricks Generative AI Fundamentals](https://credentials.databricks.com/b388a0b1-a94d-44fe-b171-8193667ac89e#acc.w9KmSMBq)
-  - [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/akshaymuke-3059/credentials/b781adf1163d29d5)
-  - [Microsoft Fabric Data Engineer Associate](https://learn.microsoft.com/en-us/users/akshaymuke-3059/credentials/6e715377f4abe1f4)
-  - [Databricks Certified Data Engineer Professional](https://credentials.databricks.com/e639d83a-cfd2-4c8b-911b-e632c5be9add#acc.xD9CPyn6)
-  - [Machine Learning by Andrew Ng](https://www.coursera.org/account/accomplishments/verify/T97ZZ33PWGXE)
+  - [Databricks Certified Generative AI Engineer Associate](https://credentials.databricks.com/31bdeeda-14d9-4159-b059-4fe5ecdc37fe#acc.PC4NtRln)
+  - [Databricks Certified Data Engineer Professional](https://credentials.databricks.com/788f6b70-aa5f-4317-aff1-68d617b46e9e#acc.jQzyEcZS)
+  - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/ronakagarwal-2899/credentials/certification/azure-fundamentals?tab=credentials-tab)
   
 - Languages I know
   - <img src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
